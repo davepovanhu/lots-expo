@@ -1,4 +1,4 @@
-// App.tsx
+// Appa.tsx
 import React, { useEffect, useState } from 'react';
 import { Provider as PaperProvider } from 'react-native-paper';
 import { onAuthStateChanged, User } from 'firebase/auth';
